@@ -1,0 +1,157 @@
+Informe
+
+1. Introducción
+
+al final, resumen del trabajo desarrollado y el documento
+proyecto ejecutivo
+tesis, estructura metodología de la investigación
+
+2. Marco conceptual (desarrollo de conceptos, estado del arte)
+
+* cuenca
+
+2.1 Definición de hidroelectricidad
+2.2 Descripción de tipos de centrales hidroeléctricas
+2.3 Descripción de centrales hidroeléctricas de pequeña escala y ejemplos
+
+3. Marco teórico
+
+* planeación proyectos
+* escala
+
+RETScreen, Canadá, CFE lo utiliza
+
+HYPOSO: tec amb, paso de peces a través turbinas, tipos obras desvío, centrales pequeña escala, centrales hidrocinéticas
+
+ESHA: programas capacitación
+
+PLADESE
+
+Asociación de Hidroenergía, 
+
+3.1 Planeación de proyectos hidroeléctricos
+
+revisión de conceptos, información CFE, definición y descripcións
+
+manual de obras civiles CFE
+
+Ley General de Planeación, 
+
+1. objetivos: diagnóstico problemáticas generales, definir metas a alcanzar
+2. estrategias
+3. líneas de acción
+
+manuales: CFE, INEEL
+
+etapas
+
+3.1.1 A nivel de identificación (definición y actividades que comprende)
+
+planos topográficos, 1:50000
+
+identificar situaciones que impidan factibilidad técnica, recomendar tipo de cortina: talud ambos lados, diferentes granulometrías, o de tierra peqeñas presas, cortinas de concreto en forma arco eg Zimapán, Yesca concreto compactado con rodillo (CCR), otras formas  de estructura civil
+
+primera aproximación zona de estudio
+
+cálculo de potencia, generación media anual, costo de obra en gabinete
+
+E = 8760 P 
+
+capacidad instalada, factor de planta medio de hidroeléctricas en gral
+
+proyecto tan caro que diseño basado en menor costo: aprovechr zona más angosta de cauce, encañonamiento natural para construcción de estructuras, buscar puntos mayor estrechamiento cauce 
+
+3.1.2 Gran visión: trabajo gabinete, cálculos generales
+
+1:10000, 1:20000
+
+mayor detalle, identificarsitios idóneos CFE
+
+estimar nivel de operación, determminar carga hidráulia: namo - obra de toma (nivel hidrostático)
+
+3.1.3 Prefactibilidad: casi se llega, anteproyecto, CFE, datos reales de bases de datos, climatológico, topográfico, diseñar central obras civiles, turbinas, establecer sitio óptimo de potencial
+
+
+
+3.1.4 Factibilidad
+3.1.5 Proyecto ejecutivo
+
+3.2 Conceptos generales de hidrología (def, bib)
+3.2.1 Ciclo hidrológico (def, esquema)
+3.2.2 Cuencua hidrológica
+Disponibilidad hídrica y usos del agua 
+
+obra civil, costos
+
+4. Desarrollo del proyecto (etapas del proyecto minicentral)
+
+* minicentral porque marco energético: pequeñas centrales no necesidad solicitar permiso concesión ley de aguas, energía: sistema de autoabastecimiento
+* pequeña < 30 MW
+* SENER FOTEASE?
+* mini < 10 MW
+* micro < 1 MW
+1-10 MW, prefactibilidad, condiciones socioambientales
+fecha entrega junio, 3 meses, proyecto debe ser viable, presentar en congreso, IMTA, CFE, jornadas de posgrado avance de tesis
+
+usar herramientas, hacer cálculos
+
+4.1 Descripción de la zona de estudio
+
+4.1.1 Localización geográfica (mapa, fronteras estatal, municipal, localidades urbanas y/o rurales)
+4.1.2 Población (cantidad de habitantes, rural/urbana)
+4.1.3 Situación socioeconómica (descripción)
+a qué se dedica, agricultura, industria, comercio, turismo
+viabilidad social: aceptación
+cómo aceptarían proyecto: si les beneficia,
+ejemplos: proyecto va a servir para tecnificación riego, o desarrollo turístico, plantas de tratamiento, objetivo social y menor impacto ambiental
+que no afecte áreas protegidas, territorio
+4.1.4 Vías
+
+por qué se requiere esta información para un proyecto de energía, para qué sirve para proyecto energético población beneficiada, potencial de la población beneficiada
+
+identificar viabilidad socioambiental, proponer 3 cuencas, cuencas ya revisadas, en cada una análisis
+
+4.2 Información hidrográfica de la zona de estudio (descripción)
+región, pendiente, orden, cauce principal, cuerpos de agua, obtener de datos reales
+
+4.3
+datos meteorológicos e hidrométricos
+
+4.4 Fisiografía de la cuenca y zona de estudio
+4.4.1 Mapa topográfico y/o modelo digital de elevaciones (MDE)
+4.5 Disponibilidad y usos del agua
+4.5.1 Disponiblidad hídrica de la cuenca, subcuenca
+si cuenca se encuentra en estrés hídrico, usos, neuvas concesiones
+
+analizar disponiblidad hasta descarga a mar, puede ser que volumen esté comprometido aguas abajo, que volumen se utilice abajo, entonces ya no hay disponiblidad para concesión, mini: no concesión, pero suficiente caudalpara proyecto viable, no se requiere concesión siempre y cuando no afecte cantidad, calidad y disponibilidad, caudal ambiental o caudal ecológico (10% del volumen, pero hay 3 metodologías)
+
+variables, esquema cálculo sencillo
+
+análisis de los gastos
+
+4.6 Estudios hidrológicos
+
+capas o shapefile en AutoCAD
+ delimitación cuenca INEGI, recortar solo hasta estación hidrométrica, ubicar poblaciones, qué tan cerca están
+
+ 2. Chicontepec
+
+dividir en capas, cada quien trabaja en su proyecto y pasar archivos
+
+4.6.2 Polígonos de Thiessen 
+Análisis de precipitación media de la cuenca
+Caudal de diseño
+4.7 Perfil del proyecto
+viable social, ambiental y técnicamente
+
+4.9 Propuesta
+hidrocinéticos, a filo del agua
+almacenamiento
+derivación: caudal o carga?
+potencia en función del caudal y carga hidráluica
+si carga hidráulica baja y caudal alto, más importaante caudal
+central hidrocinética: caudal muy grande
+dependiendo de tipo de aprovechamiento buscar carga o caudal
+condición: si es derivación, no distancia mayor a 1 km entre obra de toma (punto de toma de derivación=) y casa de máquinas (turbinas) (nivel namino, distancia longitudinal), buscar que perfil distancia longitudinal no mayor a 1 km pero mayor carga hidráulica
+
+ 
